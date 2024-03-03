@@ -3,7 +3,7 @@ from hume.models.config import FaceConfig
 
 
 newTimeOut = 3000
-client = HumeBatchClient("y7wUAPHS6ihjAyZsZwp4AN8EZtTFtyIfGnKJR4nRwhwLprDa", timeout=newTimeOut)
+client = HumeBatchClient("<your-api-key-here>", timeout=newTimeOut)
 
 
 files = ["/Users/jetlin/Desktop/HackMercedWorkshops/HumeRunthrough/humerunthroughpicture.jpg"]
