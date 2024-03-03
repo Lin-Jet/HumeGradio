@@ -12,10 +12,10 @@ https://opaque-saxophone-bd8.notion.site/Hume-AI-Gradio-Workshop-85837ad117ac4f1
 here are some examples
 
 HumeGradioBatch.py
-<img width="1440" alt="Screen Shot 2024-03-02 at 8 23 01 PM" src="https://github.com/Lin-Jet/HumeGradio/assets/110573869/ceb664b7-9663-4703-9e17-0ee6e5a55a68">
+<img width="1440" alt="Hume Gradio Batch" src="https://github.com/Lin-Jet/HumeGradio/assets/110573869/0ef80df8-19d0-4d55-8d24-09f9ec982bda">
 
 HumeGradioStream.py
-<img width="1440" alt="Screen Shot 2024-03-02 at 10 04 24 PM" src="https://github.com/Lin-Jet/HumeGradio/assets/110573869/2d864e37-1a11-4682-970d-8894da285ebd">
+<img width="1440" alt="Hume Gradio Stream " src="https://github.com/Lin-Jet/HumeGradio/assets/110573869/3a3e0df4-45cd-46ce-b6bd-cb8c7634cd41">
 
 to run:
 
